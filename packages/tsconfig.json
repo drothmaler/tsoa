@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "tsoa" },
+    { "path": "tsoa-cli" },
+    { "path": "tsoa-core" }
+  ]
+}

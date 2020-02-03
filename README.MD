@@ -833,9 +833,9 @@ export class HiddenController {
 
 For information on the configuration object (tsoa.json), check out the following:
 
-[Configuration definition](./src/config.ts)
+[Configuration definition](packages/tsoa-cli/src/config.ts)
 
-[Configuration sample](./tsoa.json)
+[Configuration sample](packages/tsoa-cli/tsoa.json)
 
 ### Swagger spec generation
 
@@ -863,7 +863,7 @@ Options:
 
 [An example project with tsoa implementation and client library generation/React integration is available here](https://github.com/lukeautry/ts-app)
 
-See example controllers in [the tests](tests/fixtures/controllers)
+See example controllers in [the tests](packages/tsoa-cli/__tests__/fixtures/controllers)
 
 ## Help wanted
 
